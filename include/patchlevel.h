@@ -18,7 +18,7 @@
  * $Id$
  *
  */
-#define PATCHLEVEL "19+devnet"
+#define PATCHLEVEL "19+UWorld"
 
 #define RELEASE ".12."
 
