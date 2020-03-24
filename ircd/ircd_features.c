@@ -317,7 +317,7 @@ static struct FeatureDesc {
   F_S(DEFAULT_LIST_PARAM, FEAT_NULL, 0, list_set_default),
   F_I(NICKNAMEHISTORYLENGTH, 0, 800, whowas_realloc),
   F_B(HOST_HIDING, 0, 1, 0),
-  F_S(HIDDEN_HOST, FEAT_CASE, "users.devnet", 0),
+  F_S(HIDDEN_HOST, FEAT_CASE, "users.uworld.dev", 0),
   F_S(HIDDEN_IP, 0, "127.0.0.1", 0),
   F_B(CONNEXIT_NOTICES, 0, 0, 0),
   F_B(OPLEVELS, 0, 1, 0),
